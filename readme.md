@@ -11,7 +11,7 @@ You can provide a list of URLs to test either directly via the command line or f
 To provide URLs via the command line, use the `--urls` option followed by the URLs. For example:
 
 ```bash
-node index.js --urls https://example.com
+node index.js --urls https://example.com/
 ```
 
 ### File
